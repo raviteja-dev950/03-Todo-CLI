@@ -17,6 +17,13 @@ A persistent Command-Line To-Do List Manager with file storage.
 - Stream API, LocalDateTime
 - File I/O (BufferedReader / FileWriter)
 
+
+### 📸 Demo
+![Demo 1](screenshots/demo1.png)
+![Demo 2](screenshots/demo2.png)
+![Demo 3](screenshots/demo3.png)
+
+
 ### 🚀 How to Run
 ```bash
 # Compile
